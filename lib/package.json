@@ -1,6 +1,6 @@
 {
   "name": "@kariudo/ng2-pdfjs-viewer",
-  "version": "17.0.22",
+  "version": "18.0.0",
   "author": {
     "name": "Hunter Horsman",
     "email": "kariudo@gmail.com"
@@ -16,13 +16,13 @@
   "typings": "./index.d.ts",
   "exports": {},
   "devDependencies": {
-    "ng-packagr": "^17.2.0",
+    "ng-packagr": "^18.2.1",
     "shx": "^0.3.4"
   },
   "peerDependencies": {
-    "@angular/common": "^17.0.3",
-    "@angular/core": "^17.0.3",
-    "ng-packagr": "^17.0.3"
+    "@angular/common": "^18.2.4",
+    "@angular/core": "^18.2.4",
+    "ng-packagr": "^18.2.1"
   },
   "$schema": "./node_modules/ng-packagr/package.schema.json",
   "bugs": {
