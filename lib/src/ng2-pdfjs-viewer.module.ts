@@ -3,8 +3,7 @@ import { CommonModule } from "@angular/common";
 import { PdfJsViewerComponent } from "./ng2-pdfjs-viewer.component";
 
 @NgModule({
-  imports: [CommonModule],
-  declarations: [PdfJsViewerComponent],
+  imports: [CommonModule, PdfJsViewerComponent],
   exports: [PdfJsViewerComponent],
 })
 export class PdfJsViewerModule {
