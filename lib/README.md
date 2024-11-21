@@ -3,7 +3,7 @@
 An angular component for displaying pdfs, wrapping the latest Mozilla PDF.js.
 
 [![NPM Version](https://img.shields.io/npm/v/%40kariudo%2Fng2-pdfjs-viewer?logo=npm)](https://www.npmjs.com/package/@kariudo/ng2-pdfjs-viewer)
-[![Static Badge](https://img.shields.io/badge/Angular%20Version-17-green?logo=angular)](https://v17.angular.io/docs/)
+[![Static Badge](https://img.shields.io/badge/Angular%20Version-19-green?logo=angular)](https://v19.angular.dev/)
 [![Static Badge](https://img.shields.io/badge/PDF.js%20Version-4.0.x-blue?logo=mozilla)](https://github.com/mozilla/pdf.js)
 
 
