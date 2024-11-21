@@ -198,7 +198,7 @@ ngOnInit(): void {
     // Display of "open file" button.
     app.appConfig.secondaryToolbar.openFileButton.hidden = !this.openFile;
     // Hide the horizontal separator in the menu if the control is hidden.
-    toolbarElement.querySelector('.horizontalToolbarSeparator:first-of-type').hidden = !this.openFile;
+    toolbarElement.querySelector('.horizontalToolbarSeparator').hidden = !this.openFile;
     // Display of annotations/editor controls.
     app.appConfig.toolbar.editorFreeTextButton.hidden = !this.annotations;
     app.appConfig.toolbar.editorStampButton.hidden = !this.annotations;
